@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hyzer Times//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bayou-teche-2026@hyzertimes
+DTSTAMP:20260829T180000Z
+DTSTART;TZID=America/Chicago:20260912T083000
+DTEND;TZID=America/Chicago:20260912T160000
+SUMMARY:Bayou Teche Open
+DESCRIPTION:Check-in 7:15–8:20. Meeting 8:30.
+URL:https://www.discgolfscene.com/tournament/Bayou_Teche_Open_2026
+LOCATION:Magnolia Park, St. Martinville, LA
+END:VEVENT
+END:VCALENDAR

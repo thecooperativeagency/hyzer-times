@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hyzer Times//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:south-park-shootout-2026@hyzertimes
+DTSTAMP:20260829T180000Z
+DTSTART;TZID=America/Chicago:20260919T090000
+DTEND;TZID=America/Chicago:20260919T160000
+SUMMARY:South Park Shootout doubles
+DESCRIPTION:Shotgun 9:00.
+URL:https://www.discgolfscene.com/tournaments/Lagniappe_Disc_Golf_Presents_The_2nd_Annual_South_Park_Shootout_Doubles_Tournament_2026
+LOCATION:South Park, Denham Springs, LA
+END:VEVENT
+END:VCALENDAR

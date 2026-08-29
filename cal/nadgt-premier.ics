@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hyzer Times//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nadgt-la-premier-2026@hyzertimes
+DTSTAMP:20260829T180000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+SUMMARY:NADGT x Zanfel Louisiana Premier
+DESCRIPTION:Scene: Fri Lafreniere, Sat Parc des Familles, Sun City Park. PDGA lists Sat-Sun. Tee times not posted.
+URL:https://www.discgolfscene.com/tournaments/2026_NADGT_x_Zanfel_Louisiana_Premier/register
+LOCATION:New Orleans metro, LA
+END:VEVENT
+END:VCALENDAR

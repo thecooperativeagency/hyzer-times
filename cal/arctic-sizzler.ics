@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hyzer Times//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:arctic-sizzler-2026@hyzertimes
+DTSTAMP:20260829T180000Z
+DTSTART;TZID=America/Chicago:20260926T090000
+DTEND;TZID=America/Chicago:20260926T160000
+SUMMARY:Arctic Sizzler
+DESCRIPTION:https://www.discgolfscene.com/tournament/Arctic_Sizzler_2026
+URL:https://www.discgolfscene.com/tournament/Arctic_Sizzler_2026
+LOCATION:Arctic Fox DGC, Hattiesburg, MS
+END:VEVENT
+END:VCALENDAR

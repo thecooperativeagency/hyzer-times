@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hyzer Times//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:disco-inferno-3-2026@hyzertimes
+DTSTAMP:20260829T180000Z
+DTSTART;TZID=America/Chicago:20260829T090000
+DTEND;TZID=America/Chicago:20260829T160000
+SUMMARY:Disco Inferno 3
+DESCRIPTION:C-tier, two rounds.
+URL:https://www.discgolfscene.com/tournaments/Disco_Inferno_3_2026
+LOCATION:Colony Park, Fairhope, AL
+END:VEVENT
+END:VCALENDAR

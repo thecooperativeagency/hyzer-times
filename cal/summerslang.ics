@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hyzer Times//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:summerslang-2026@hyzertimes
+DTSTAMP:20260829T180000Z
+DTSTART;TZID=America/Chicago:20260829T200000
+DTEND;TZID=America/Chicago:20260829T220000
+SUMMARY:SummerSlang benefiting St. Jude
+DESCRIPTION:One-round glow. Venue moved off Highland.
+URL:https://www.discgolfscene.com/tournaments/SummerSlang_benefiting_St_Jude_2026
+LOCATION:South Park Disc Golf Course, Denham Springs, LA
+END:VEVENT
+END:VCALENDAR
