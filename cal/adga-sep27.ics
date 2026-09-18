@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hyzer Times//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:adga-sunday-20260927@hyzertimes
+DTSTAMP:20260918T170000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:ADGA Sunday
+DESCRIPTION:https://udisc.com/leagues/adga-sunday-qiuysZ/schedule
+URL:https://udisc.com/leagues/adga-sunday-qiuysZ/schedule
+LOCATION:Acadiana Park, Lafayette, LA
+END:VEVENT
+END:VCALENDAR
