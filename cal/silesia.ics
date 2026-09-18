@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hyzer Times//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:silesia-open-2026@hyzertimes
+DTSTAMP:20260918T170000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+SUMMARY:Silesia Open
+DESCRIPTION:DGPT EuroTour A-Tier. https://www.dgpt.com/event/2026-silesia-open/
+URL:https://www.dgpt.com/event/2026-silesia-open/
+LOCATION:Strzelce Opolskie, Poland
+END:VEVENT
+END:VCALENDAR
