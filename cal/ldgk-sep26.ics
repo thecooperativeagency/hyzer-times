@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hyzer Times//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ldgk-bag-tag-20260926@hyzertimes
+DTSTAMP:20260918T170000Z
+DTSTART;TZID=America/Chicago:20260926T092200
+DTEND;TZID=America/Chicago:20260926T142200
+SUMMARY:LDGK bag tag round
+DESCRIPTION:https://udisc.com/events/lafayette-disc-golf-krewe-ldgk-bag-tag-round-d8jYT8/about
+URL:https://udisc.com/events/lafayette-disc-golf-krewe-ldgk-bag-tag-round-d8jYT8/about
+LOCATION:Acadiana Park - Original, Lafayette, LA
+END:VEVENT
+END:VCALENDAR
